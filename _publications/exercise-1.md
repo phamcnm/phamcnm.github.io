@@ -2,7 +2,7 @@
 title: "Exercise 1 Report Writeup"
 permalink: /publication/exercise-1
 excerpt: 'Exercise 1 Report for class cmput 503: Experimental Mobile Robotics. Due date: Jan 30, 2025'
-date: 2025-01-25
+date: 2025-01-30
 ---
 
 # Lab Exercise 1 Write-up
@@ -41,7 +41,7 @@ Docker is a containerization tool for a software--It makes a software applicatio
 
 ### A screen capture of your Duckiebot saying “Hello from MY_ROBOT”
 <img src="../images/exercise_1/camera_extrinsic.png" style="width: 80%; display: block; margin: auto;">  
-To achieve this functionality, we needed to deploy this software onto the Duckiebot. This requires us to package the Python script into a Docker image. We had the Duckiebot running, then built the image directly on the robot (instead of the desktop), and then issued a command to run it. Details are <a href="https://github.com/acl-24/experimental-mobile-robotics/tree/main/exercise_1" target="_blank">here</a>.
+To achieve this functionality, we needed to deploy this software onto the Duckiebot. This requires us to package the Python script into a Docker image. We had the Duckiebot running, then built the image directly on the robot (instead of the desktop), and then issued a command to run it. Details are <a href="https://github.com/phamcnm/ros-phamm/tree/main/exercise-1" target="_blank">in this repo</a>.
 
 ### Write up
 In this exercise, we set up the Duckiebot hardware, calibrated its wheels and camera, set up a Duckie dashboard profile and performed hands-on experiments in straight driving and lane following. This exercise built our foundational understanding of how a robot works, covering topics in the engine, the inputs/outputs, the parameter tuning, the networking capacity, and the ability to run a containerized application of the robot.  
