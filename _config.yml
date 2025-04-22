@@ -24,11 +24,11 @@ author:
   avatar           : "profile.jpeg"
   name             : "Minh Pham"
   pronouns         : # example: "she/her"  
-  bio              : "Master Student"
+  bio              : "Scientist, Philosopher, High School Graduate"
   location         : "Edmonton, AB"
   employer         : "University of Alberta"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -261,8 +261,8 @@ defaults:
       type: publications
     values:
       layout: single
-      author_profile: true
-      share: true
+      author_profile: false
+      share: false
       comments: true
   # _portfolio
   - scope:

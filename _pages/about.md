@@ -7,8 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to the website of Minh Pham, current Master Student in Computer Science.
+Welcome to my website, archiving my course work, research, and other boring stuff.
 
 Quick links
 ===
-[CMPUT 503 Ex. 1](https://phamcnm.github.io/publication/exercise-1)
+[CMPUT 503 Ex. 1](https://phamcnm.github.io/publication/503e1)
+
+[CMPUT 503 Ex. 2](https://phamcnm.github.io/publication/503e2)
+
+[CMPUT 503 Ex. 3](https://phamcnm.github.io/publication/503e3)
+
+[CMPUT 503 Ex. 4](https://phamcnm.github.io/publication/503e4)
